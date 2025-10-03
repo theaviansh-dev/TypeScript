@@ -130,4 +130,54 @@
     25:{
         #typeGuard in ts
     },
+
+
+    26:{
+        #generic in ts
+    },
+
+
+    27:{
+        #keyof in ts
+    },
+
+
+    28:{
+        #index signature
+    },
+
+
+    29:{
+        #utility types
+    },
+
+
+    30:{
+        #namespace
+    },
+
+
+    31:{
+        #decorator
+    },
+
+
+    32:{
+        class function override
+    },
+
+
+    33:{
+        #typed promise
+    },
+
+
+    34:{
+        API call
+    },
+
+
+    test1:{
+        #test file 01
+    },
 ]
