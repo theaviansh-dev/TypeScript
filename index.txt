@@ -1,0 +1,133 @@
+[
+    01:{
+        #Category of data type in TypeScript() {
+            - Primitive
+            - Object
+            - Special
+            - Advanced
+            - Function
+        }
+    },
+
+
+    02:{
+        #number type data type
+    },
+
+
+    03:{
+        #string type data type
+    },
+    
+
+    04:{
+        #null & undefined data type
+    },
+
+
+    05:{
+        #bigint datatype
+    },
+
+
+    06:{
+        #symbol data type
+    },
+
+
+    07:{
+        html file 01
+        #get form data using ts file
+    },
+
+
+    08:{
+        #array data type in TypeScript
+    },
+
+
+    09:{
+        #tuple in ts
+    },
+
+
+    10:{
+        #object in ts
+    },
+
+
+    11:{
+        #any and unknown data type
+    },
+
+
+    12:{
+        #retrun  Function
+    },
+
+
+    13:{
+        #union type data type
+    },
+
+
+    14:{
+        #interface
+    },
+
+
+    15:{
+        #intersection
+    },
+
+
+    16:{
+        #type feature
+    },
+
+
+    17:{
+        html file 02
+        #DOM integration
+    },
+
+
+    18:{
+        #class
+    },
+
+
+    19:{
+        #access modifire
+    },
+
+
+    20:{
+        #inheritance
+    },
+
+
+    21:{
+        #module
+    },
+
+
+    22:{
+        #getter and sestter
+    },
+
+
+    23:{
+        #interface with class
+    },
+
+
+    24:{
+        #static keyword
+    }.
+
+
+    25:{
+        #typeGuard in ts
+    },
+]
